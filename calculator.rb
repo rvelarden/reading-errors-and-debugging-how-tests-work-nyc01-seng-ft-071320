@@ -8,3 +8,4 @@ puts second_number
 sum = first_number + second_number
 puts sum
 
+difference = first_number - second_number
