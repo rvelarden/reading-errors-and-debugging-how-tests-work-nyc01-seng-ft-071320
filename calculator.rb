@@ -6,4 +6,4 @@ second_number = 1.2
 puts second_number
 
 sum = first_number + second_number
-puts number
+puts sum
